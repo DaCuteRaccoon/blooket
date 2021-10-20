@@ -3,7 +3,7 @@ These are hacks for blooket. There are hacks such as give tokens for buying bloo
 I took cheats from another github repo, revised the code a bit, and made it into an html website.
 
 #How to hack
-Go to **https://DaCuteRaccoon.github.io/blooket/hacks.html** to find scripts to paste in your JavaScript console.
+Go to **https://dacuteraccoon.github.io/blooket/hacks.html** to find scripts to paste in your JavaScript console.
 Then paste the code you want into the JavaScript console. For example, if you want 500 credits, just type this into the console:
 
 ### Note to self, please remember to update the URLs, as they are probably not incorrect.
