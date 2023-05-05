@@ -6,7 +6,7 @@ async function getName(authToken) {
 };
 
 async function addTokens() {
-    const add_tokens = 500;
+    const add_tokens = 50000;
     const myToken = localStorage.token.split('JWT ')[1];
 
     const response = await fetch('https://api.blooket.com/api/users/add-rewards', {
